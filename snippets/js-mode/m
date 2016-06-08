@@ -2,6 +2,6 @@
 # contributor: jasonm23
 # name: matcher
 # group: mocha
-# key: m
+# binding: C-c .
 # --
 ${1:$$(yas-choose-value (yas-chai-matcher-list))}
