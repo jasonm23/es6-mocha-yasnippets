@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# contributor: jasonm23
+# name: describe
+# group: mocha
+# key: des
+# --
+describe('${1:what?}', () => {
+  $0
+});

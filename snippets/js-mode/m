@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# contributor: jasonm23
+# name: matcher
+# group: mocha
+# key: m
+# --
+${1:$$(yas-chai-matcher-list)}
