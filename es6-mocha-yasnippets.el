@@ -3,7 +3,7 @@
 ;; Copyright (C) 2016 Jason Milkins
 
 ;; Author: Jason Milkins <jasonm23@gmail.com>
-;; Version: 0.1.0
+;; Version: 0.1.1
 ;; Package-Requires: ((yasnippet "0.8.0"))
 ;; Maintainer: Jason Milkins <jasonm23@gmail.com>
 ;; Keywords: test javascript mocha chai BDD TDD

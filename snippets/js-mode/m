@@ -4,4 +4,4 @@
 # group: mocha
 # key: m
 # --
-${1:$$(yas-chai-matcher-list)}
+${1:$$(yas-choose-value (yas-chai-matcher-list))}
