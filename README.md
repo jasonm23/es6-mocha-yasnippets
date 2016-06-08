@@ -1,17 +1,24 @@
-## Installation
+# Emacs yasnippets for mocha / es6
+
+A few useful snippets for Mocha using ES6 style.
+
+Chai matcher integration is included see below.
+
+# Installation
 
 ```
-wget https://github.com/jasonm23/es6-mocha-yasnippets/releases/download/0.1.0/es6-mocha-yasnippets-0.1.0.tar
+wget https://github.com/jasonm23/es6-mocha-yasnippets/releases/download/0.1.1/es6-mocha-yasnippets-0.1.1.tar
 ```
 
-Assuming you downloaded to `~` install via `M-x package-install-file`
-`~/es6-mocha-yasnippets-0.1.0.tar.gz`
+If you downloaded to `~` you can install from Emacs:
 
-## Emacs yasnippets for mocha / es6
+```
+M-x package-install-file
+```
 
-Just a few useful snippets for Mocha using ES6 style.
+choose: `~/es6-mocha-yasnippets-0.1.1.tar`
 
-#### Main BDD constructs
+## BDD snippets
 
 - `desc` <kbd>TAB</kbd>
 
@@ -29,7 +36,7 @@ Just a few useful snippets for Mocha using ES6 style.
 
     it block
 
-#### xUnit constructs
+## xUnit snippets
 
 - `test` <kbd>TAB</kbd>
 
@@ -39,7 +46,7 @@ Just a few useful snippets for Mocha using ES6 style.
 
     xUnit style test suite
 
-#### Expect & Chai Matchers/Chains
+## Expect & Chai Matchers/Chains snippets
 
 - `ex` <kbd>TAB</kbd>
 
@@ -111,4 +118,5 @@ Just a few useful snippets for Mocha using ES6 style.
 ## Contributing
 
 Your contributions are welcome, please submit a pull request to add
-new snippets, or raise issues / corrections.
+new snippets etc. or raise issues / corrections / ask questions via
+Github issues.
