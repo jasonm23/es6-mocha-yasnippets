@@ -52,7 +52,7 @@ choose: `~/es6-mocha-yasnippets-0.1.1.tar`
 
     expect
 
-- `m` <kbd>TAB</kbd>
+- `C-c .` <kbd>TAB</kbd>
 
     all chai matchers/chains (select from the list, **ido/flx** is highly
     recommended as your yas dropdown style)
