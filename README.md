@@ -1,11 +1,11 @@
 ## Installation
 
 ```
-curl -sL https://github.com/emacsfodder/es6-mocha-yasnippets/archive/master.tar.gz | tar xz
+wget https://github.com/jasonm23/es6-mocha-yasnippets/releases/download/0.1.0/es6-mocha-yasnippets-0.1.0.tar
 ```
 
 Assuming you downloaded to `~` install via `M-x package-install-file`
-`~/master.tar.gz`
+`~/es6-mocha-yasnippets-0.1.0.tar.gz`
 
 ## Emacs yasnippets for mocha / es6
 
